@@ -1,4 +1,3 @@
-vpc.tc
 module "network" {
   source  = "app.terraform.io/andre-betz-company/network/google"
   version = "2.5.0"
